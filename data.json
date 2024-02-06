@@ -15662,7 +15662,12 @@
         "skins": [
             {
                 "id": 901001,
-                "name": "Heavenscale Smolder"
+                "name": "Heavenscale Smolder",
+                "availability": "Upcoming",
+                "lootEligible": true,
+                "cost": 1350,
+                "rarity": "Epic",
+                "release": "2024-01-31"
             }
         ]
     },
