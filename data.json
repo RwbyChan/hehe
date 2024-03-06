@@ -1,5 +1,5 @@
 {
-    "version": "2024.2.1",
+    "version": "2024.3.1",
     "data": [
         {
             "id": 1,
@@ -2558,7 +2558,7 @@
                 {
                     "id": 21050,
                     "name": "Porcelain Miss Fortune",
-                    "availability": "Legacy",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
@@ -2977,6 +2977,15 @@
                     "cost": "Special",
                     "rarity": "Mythic",
                     "release": "2023-10-11"
+                },
+                {
+                    "id": 24033,
+                    "name": "PROJECT: Jax",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "0000-00-00"
                 }
             ]
         },
@@ -3113,7 +3122,7 @@
                 {
                     "id": 25070,
                     "name": "Porcelain Morgana",
-                    "availability": "Legacy",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
@@ -4601,7 +4610,7 @@
                 {
                     "id": 39045,
                     "name": "Porcelain Irelia",
-                    "availability": "Legacy",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
@@ -4852,6 +4861,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2022-05-05"
+                },
+                {
+                    "id": 41033,
+                    "name": "PROJECT: Gangplank",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "0000-00-00"
                 }
             ]
         },
@@ -10133,7 +10151,7 @@
                 {
                     "id": 104045,
                     "name": "Porcelain Graves",
-                    "availability": "Legacy",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
@@ -11540,7 +11558,7 @@
                 {
                     "id": 122054,
                     "name": "Porcelain Darius",
-                    "availability": "Legacy",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
@@ -12035,7 +12053,7 @@
                 {
                     "id": 136031,
                     "name": "Porcelain Protector Aurelion Sol",
-                    "availability": "Legacy",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1820,
                     "rarity": "Legendary",
@@ -15787,6 +15805,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2023-07-20"
+                },
+                {
+                    "id": 950011,
+                    "name": "PROJECT: Naafiri",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "0000-00-00"
                 }
             ]
         }
