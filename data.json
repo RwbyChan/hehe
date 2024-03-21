@@ -1,5 +1,5 @@
 {
-    "version": "2024.3.1",
+    "version": "2024.3.2",
     "data": [
         {
             "id": 1,
@@ -2981,11 +2981,11 @@
                 {
                     "id": 24033,
                     "name": "PROJECT: Jax",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-06"
                 }
             ]
         },
@@ -3424,6 +3424,24 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2023-08-03"
+                },
+                {
+                    "id": 28052,
+                    "name": "High Noon Evelynn",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "0000-00-00"
+                },
+                {
+                    "id": 28053,
+                    "name": "Prestige High Noon Evelynn",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": "Special",
+                    "rarity": "Mythic",
+                    "release": "0000-00-00"
                 }
             ]
         },
@@ -4865,11 +4883,11 @@
                 {
                     "id": 41033,
                     "name": "PROJECT: Gangplank",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-06"
                 }
             ]
         },
@@ -7292,7 +7310,7 @@
                     "availability": "Available",
                     "lootEligible": true,
                     "cost": 975,
-                    "rarity": "NoRarity",
+                    "rarity": "Epic",
                     "release": "2015-04-26"
                 },
                 {
@@ -7924,6 +7942,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2022-11-17"
+                },
+                {
+                    "id": 79029,
+                    "name": "High Noon Gragas",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "0000-00-00"
                 }
             ]
         },
@@ -11449,6 +11476,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2023-01-26"
+                },
+                {
+                    "id": 121079,
+                    "name": "Crystalis Indomitus Kha'Zix",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": "Special",
+                    "rarity": "Mythic",
+                    "release": "0000-00-00"
                 }
             ]
         },
@@ -15322,6 +15358,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2022-07-28"
+                },
+                {
+                    "id": 526020,
+                    "name": "High Noon Rell",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "0000-00-00"
                 }
             ]
         },
@@ -15502,6 +15547,24 @@
                     "cost": "Special",
                     "rarity": "Mythic",
                     "release": "2023-11-08"
+                },
+                {
+                    "id": 777055,
+                    "name": "High Noon Yone",
+                    "availability": "Upcoming",
+                    "lootEligible": true,
+                    "cost": 1820,
+                    "rarity": "Legendary",
+                    "release": "0000-00-00"
+                },
+                {
+                    "id": 777058,
+                    "name": "Peacemaker High Noon Yone",
+                    "availability": "Upcoming",
+                    "lootEligible": false,
+                    "cost": "Special",
+                    "rarity": "Mythic",
+                    "release": "0000-00-00"
                 }
             ]
         },
@@ -15809,11 +15872,11 @@
                 {
                     "id": 950011,
                     "name": "PROJECT: Naafiri",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-06"
                 }
             ]
         }
