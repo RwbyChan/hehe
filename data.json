@@ -1,5 +1,5 @@
 {
-    "version": "2024.3.2",
+    "version": "2024.4.1",
     "data": [
         {
             "id": 1,
@@ -3428,20 +3428,20 @@
                 {
                     "id": 28052,
                     "name": "High Noon Evelynn",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-20"
                 },
                 {
                     "id": 28053,
                     "name": "Prestige High Noon Evelynn",
-                    "availability": "Upcoming",
+                    "availability": "Rare",
                     "lootEligible": true,
                     "cost": "Special",
                     "rarity": "Mythic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-20"
                 }
             ]
         },
@@ -3556,6 +3556,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2022-05-26"
+                },
+                {
+                    "id": 29055,
+                    "name": "Cheddar Chief Twitch",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-04-03"
                 }
             ]
         },
@@ -3730,6 +3739,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2023-03-09"
+                },
+                {
+                    "id": 31032,
+                    "name": "Toy Terror Cho'Gath",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-04-03"
                 }
             ]
         },
@@ -3949,6 +3967,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2021-07-01"
+                },
+                {
+                    "id": 33026,
+                    "name": "Durian Defender Rammus",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-04-03"
                 }
             ]
         },
@@ -7946,11 +7973,11 @@
                 {
                     "id": 79029,
                     "name": "High Noon Gragas",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-20"
                 }
             ]
         },
@@ -11480,11 +11507,11 @@
                 {
                     "id": 121079,
                     "name": "Crystalis Indomitus Kha'Zix",
-                    "availability": "Upcoming",
+                    "availability": "Rare",
                     "lootEligible": true,
                     "cost": "Special",
                     "rarity": "Mythic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-20"
                 }
             ]
         },
@@ -12631,6 +12658,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2022-11-03"
+                },
+                {
+                    "id": 154024,
+                    "name": "Zesty Dip Zac",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-04-03"
                 }
             ]
         },
@@ -15145,6 +15181,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2022-11-17"
+                },
+                {
+                    "id": 516020,
+                    "name": "Choo-Choo Ornn",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-04-03"
                 }
             ]
         },
@@ -15362,11 +15407,11 @@
                 {
                     "id": 526020,
                     "name": "High Noon Rell",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-20"
                 }
             ]
         },
@@ -15551,20 +15596,20 @@
                 {
                     "id": 777055,
                     "name": "High Noon Yone",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1820,
                     "rarity": "Legendary",
-                    "release": "0000-00-00"
+                    "release": "2024-03-20"
                 },
                 {
                     "id": 777058,
                     "name": "Peacemaker High Noon Yone",
-                    "availability": "Upcoming",
+                    "availability": "Rare",
                     "lootEligible": false,
                     "cost": "Special",
                     "rarity": "Mythic",
-                    "release": "0000-00-00"
+                    "release": "2024-03-20"
                 }
             ]
         },
