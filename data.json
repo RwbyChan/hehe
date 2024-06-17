@@ -1,5 +1,5 @@
 {
-    "version": "2024.6.1",
+    "version": "2024.6.2",
     "data": [
         {
             "id": 1,
@@ -247,7 +247,12 @@
                 },
                 {
                     "id": 2044,
-                    "name": "Infernal Olaf"
+                    "name": "Infernal Olaf",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-05-30"
                 }
             ]
         },
@@ -1915,11 +1920,11 @@
                 {
                     "id": 16044,
                     "name": "Faerie Court Soraka",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-05-15"
                 }
             ]
         },
@@ -2188,11 +2193,11 @@
                 {
                     "id": 18061,
                     "name": "Faerie Court Tristana",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-05-15"
                 }
             ]
         },
@@ -2778,7 +2783,12 @@
                 },
                 {
                     "id": 22067,
-                    "name": "Infernal Ashe"
+                    "name": "Infernal Ashe",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-05-30"
                 }
             ]
         },
@@ -5194,7 +5204,12 @@
                 },
                 {
                     "id": 43061,
-                    "name": "Infernal Karma"
+                    "name": "Infernal Karma",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-05-30"
                 }
             ]
         },
@@ -9600,11 +9615,11 @@
                 {
                     "id": 96055,
                     "name": "Victorious Kog'Maw",
-                    "availability": "Upcoming",
+                    "availability": "Limited",
                     "lootEligible": false,
                     "cost": "Special",
                     "rarity": "NoRarity",
-                    "release": "0000-00-00"
+                    "release": "2024-05-17"
                 }
             ]
         },
@@ -9891,11 +9906,11 @@
                 {
                     "id": 99061,
                     "name": "Faerie Court Lux",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-05-15"
                 }
             ]
         },
@@ -9968,7 +9983,12 @@
                 },
                 {
                     "id": 101030,
-                    "name": "Crystalis Indomitus Xerath"
+                    "name": "Crystalis Indomitus Xerath",
+                    "availability": "Rare",
+                    "lootEligible": true,
+                    "cost": "Special",
+                    "rarity": "Mythic",
+                    "release": "2024-06-12"
                 }
             ]
         },
@@ -10209,7 +10229,12 @@
                 },
                 {
                     "id": 103085,
-                    "name": "Risen Legend Ahri"
+                    "name": "Risen Legend Ahri",
+                    "availability": "Special",
+                    "lootEligible": false,
+                    "cost": "-",
+                    "rarity": "Transcendent",
+                    "release": "2024-06-12"
                 }
             ]
         },
@@ -15875,11 +15900,11 @@
                 {
                     "id": 876028,
                     "name": "Faerie Court Lillia",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
-                    "release": "0000-00-00"
+                    "release": "2024-05-15"
                 }
             ]
         },
