@@ -1,5 +1,5 @@
 {
-    "version": "2024.6.2",
+    "version": "2024.6.3",
     "data": [
         {
             "id": 1,
@@ -754,7 +754,12 @@
                 },
                 {
                     "id": 7055,
-                    "name": "Risen Legend LeBlanc"
+                    "name": "Risen Legend LeBlanc",
+                    "availability": "-",
+                    "lootEligible": false,
+                    "cost": "Special",
+                    "rarity": "Mythic",
+                    "release": "2024-06-12"
                 }
             ]
         },
@@ -10230,9 +10235,9 @@
                 {
                     "id": 103085,
                     "name": "Risen Legend Ahri",
-                    "availability": "Special",
+                    "availability": "-",
                     "lootEligible": false,
-                    "cost": "-",
+                    "cost": "Special",
                     "rarity": "Transcendent",
                     "release": "2024-06-12"
                 }
