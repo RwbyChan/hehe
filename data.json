@@ -1,5 +1,5 @@
 {
-    "version": "2024.6.4",
+    "version": "2024.7.1",
     "data": [
         {
             "id": 1,
@@ -755,7 +755,7 @@
                 {
                     "id": 7055,
                     "name": "Risen Legend LeBlanc",
-                    "availability": "-",
+                    "availability": "Limited",
                     "lootEligible": false,
                     "cost": "Special",
                     "rarity": "Mythic",
@@ -10235,7 +10235,7 @@
                 {
                     "id": 103085,
                     "name": "Risen Legend Ahri",
-                    "availability": "-",
+                    "availability": "Limited",
                     "lootEligible": false,
                     "cost": "Special",
                     "rarity": "Transcendent",
@@ -10477,6 +10477,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2023-02-24"
+                },
+                {
+                    "id": 105035,
+                    "name": "Rain Shepherd Fizz",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-06-26"
                 }
             ]
         },
@@ -16072,6 +16081,15 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2023-03-23"
+                },
+                {
+                    "id": 902011,
+                    "name": "Rain Shepherd Milio",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-06-26"
                 }
             ]
         },
