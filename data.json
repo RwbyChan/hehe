@@ -1,5 +1,5 @@
 {
-    "version": "2024.9.1",
+    "version": "2024.10.1",
     "data": [
         {
             "id": 1,
@@ -7242,10 +7242,10 @@
                     "name": "Happy Elf Teemo",
                     "availability": "Legacy",
                     "lootEligible": true,
-                    "cost": 520,
+                    "cost": 750,
                     "rarity": "NoRarity",
                     "release": "2009-12-17",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/images/teemo_splash_centered_1.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/images/teemo_splash_centered_1.asu_teemo.jpg",
                     "chromas": []
                 },
                 {
@@ -7253,10 +7253,10 @@
                     "name": "Recon Teemo",
                     "availability": "Legacy",
                     "lootEligible": true,
-                    "cost": 520,
+                    "cost": 750,
                     "rarity": "NoRarity",
                     "release": "2009-12-17",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin02/images/teemo_splash_centered_2.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin02/images/teemo_splash_centered_2.asu_teemo.jpg",
                     "chromas": []
                 },
                 {
@@ -7264,10 +7264,10 @@
                     "name": "Badger Teemo",
                     "availability": "Legacy",
                     "lootEligible": true,
-                    "cost": 520,
+                    "cost": 750,
                     "rarity": "NoRarity",
                     "release": "2010-01-13",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin03/images/teemo_splash_centered_3.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin03/images/teemo_splash_centered_3.asu_teemo.jpg",
                     "chromas": []
                 },
                 {
@@ -7278,7 +7278,7 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2010-10-27",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin04/images/teemo_splash_centered_4.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin04/images/teemo_splash_centered_4.asu_teemo.jpg",
                     "chromas": [
                         {
                             "id": 17026,
@@ -7298,7 +7298,7 @@
                     "cost": 975,
                     "rarity": "NoRarity",
                     "release": "2011-04-18",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin05/images/teemo_splash_centered_5.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin05/images/teemo_splash_centered_5.asu_teemo.jpg",
                     "chromas": [
                         {
                             "id": 17013,
@@ -7350,7 +7350,7 @@
                     "cost": 975,
                     "rarity": "NoRarity",
                     "release": "2011-10-10",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin06/images/teemo_splash_centered_6.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin06/images/teemo_splash_centered_6.asu_teemo.jpg",
                     "chromas": []
                 },
                 {
@@ -7361,7 +7361,7 @@
                     "cost": 975,
                     "rarity": "NoRarity",
                     "release": "2012-07-09",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin07/images/teemo_splash_centered_7.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin07/images/teemo_splash_centered_7.asu_teemo.jpg",
                     "chromas": []
                 },
                 {
@@ -7408,7 +7408,7 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2016-10-19",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin14/images/teemo_splash_centered_14.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin14/images/teemo_splash_centered_14.asu_teemo.jpg",
                     "chromas": [
                         {
                             "id": 17033,
@@ -7492,7 +7492,7 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2018-05-01",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin18/images/teemo_splash_centered_18.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin18/images/teemo_splash_centered_18.asu_teemo.jpg",
                     "chromas": [
                         {
                             "id": 17022,
@@ -7552,7 +7552,7 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2020-07-22",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin25/images/teemo_splash_centered_25.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin25/images/teemo_splash_centered_25.asu_teemo.jpg",
                     "chromas": []
                 },
                 {
@@ -7563,7 +7563,7 @@
                     "cost": "Special",
                     "rarity": "Mythic",
                     "release": "2020-07-22",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin27/images/teemo_splash_centered_27.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin27/images/teemo_splash_centered_27.asu_teemo.jpg",
                     "chromas": []
                 },
                 {
@@ -7574,7 +7574,7 @@
                     "cost": 1350,
                     "rarity": "Epic",
                     "release": "2022-01-26",
-                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin37/images/teemo_splash_centered_37.jpg",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin37/images/teemo_splash_centered_37.asu_teemo.jpg",
                     "chromas": [
                         {
                             "id": 17042,
@@ -9149,6 +9149,90 @@
                             "colors": [
                                 "#73BFBE",
                                 "#73BFBE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 20044,
+                    "name": "Fright Night Nunu & Willump",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-09-25",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin44/images/nunu_splash_centered_44.skins_nunu_skin44.jpg",
+                    "chromas": [
+                        {
+                            "id": 20046,
+                            "name": "Catseye",
+                            "colors": [
+                                "#FFEE59",
+                                "#FFEE59"
+                            ]
+                        },
+                        {
+                            "id": 20051,
+                            "name": "Citrine",
+                            "colors": [
+                                "#DF9117",
+                                "#DF9117"
+                            ]
+                        },
+                        {
+                            "id": 20047,
+                            "name": "Emerald",
+                            "colors": [
+                                "#2DA130",
+                                "#2DA130"
+                            ]
+                        },
+                        {
+                            "id": 20053,
+                            "name": "Ghoulish",
+                            "colors": [
+                                "#68B856",
+                                "#B69017"
+                            ]
+                        },
+                        {
+                            "id": 20049,
+                            "name": "Obsidian",
+                            "colors": [
+                                "#27211C",
+                                "#27211C"
+                            ]
+                        },
+                        {
+                            "id": 20052,
+                            "name": "Rose Quartz",
+                            "colors": [
+                                "#E58BA5",
+                                "#E58BA5"
+                            ]
+                        },
+                        {
+                            "id": 20045,
+                            "name": "Ruby",
+                            "colors": [
+                                "#D33528",
+                                "#D33528"
+                            ]
+                        },
+                        {
+                            "id": 20048,
+                            "name": "Sapphire",
+                            "colors": [
+                                "#2756CE",
+                                "#2756CE"
+                            ]
+                        },
+                        {
+                            "id": 20050,
+                            "name": "Tanzanite",
+                            "colors": [
+                                "#54209B",
+                                "#54209B"
                             ]
                         }
                     ]
@@ -15764,6 +15848,90 @@
                     "release": "2023-08-03",
                     "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin44/images/shaco_splash_centered_44.jpg",
                     "chromas": []
+                },
+                {
+                    "id": 35054,
+                    "name": "Fright Night Shaco",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-09-25",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin54/images/shaco_splash_centered_54.skins_shaco_skin54.jpg",
+                    "chromas": [
+                        {
+                            "id": 35056,
+                            "name": "Catseye",
+                            "colors": [
+                                "#FFEE59",
+                                "#FFEE59"
+                            ]
+                        },
+                        {
+                            "id": 35057,
+                            "name": "Emerald",
+                            "colors": [
+                                "#2DA130",
+                                "#2DA130"
+                            ]
+                        },
+                        {
+                            "id": 35063,
+                            "name": "Ghoulish",
+                            "colors": [
+                                "#68B856",
+                                "#B69017"
+                            ]
+                        },
+                        {
+                            "id": 35062,
+                            "name": "Obsidian",
+                            "colors": [
+                                "#27211C",
+                                "#27211C"
+                            ]
+                        },
+                        {
+                            "id": 35060,
+                            "name": "Pearl",
+                            "colors": [
+                                "#ECF9F8",
+                                "#ECF9F8"
+                            ]
+                        },
+                        {
+                            "id": 35058,
+                            "name": "Rose Quartz",
+                            "colors": [
+                                "#E58BA5",
+                                "#E58BA5"
+                            ]
+                        },
+                        {
+                            "id": 35055,
+                            "name": "Ruby",
+                            "colors": [
+                                "#D33528",
+                                "#D33528"
+                            ]
+                        },
+                        {
+                            "id": 35059,
+                            "name": "Sapphire",
+                            "colors": [
+                                "#2756CE",
+                                "#2756CE"
+                            ]
+                        },
+                        {
+                            "id": 35061,
+                            "name": "Tanzanite",
+                            "colors": [
+                                "#54209B",
+                                "#54209B"
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -16530,6 +16698,90 @@
                     "release": "2023-08-16",
                     "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin46/images/sona_splash_centered_46.jpg",
                     "chromas": []
+                },
+                {
+                    "id": 37056,
+                    "name": "Victorious Sona",
+                    "availability": "Limited",
+                    "lootEligible": false,
+                    "cost": "Special",
+                    "rarity": "NoRarity",
+                    "release": "2024-09-25",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin56/images/sona_splash_centered_56.skins_sona_skin56.jpg",
+                    "chromas": [
+                        {
+                            "id": 37057,
+                            "name": "Bronze",
+                            "colors": [
+                                "#764D43",
+                                "#764D43"
+                            ]
+                        },
+                        {
+                            "id": 37065,
+                            "name": "Challenger",
+                            "colors": [
+                                "#1D62C8",
+                                "#1D62C8"
+                            ]
+                        },
+                        {
+                            "id": 37062,
+                            "name": "Diamond",
+                            "colors": [
+                                "#65337F",
+                                "#65337F"
+                            ]
+                        },
+                        {
+                            "id": 37061,
+                            "name": "Emerald",
+                            "colors": [
+                                "#26854C",
+                                "#26854C"
+                            ]
+                        },
+                        {
+                            "id": 37059,
+                            "name": "Gold",
+                            "colors": [
+                                "#D9C445",
+                                "#D9C445"
+                            ]
+                        },
+                        {
+                            "id": 37064,
+                            "name": "Grandmaster",
+                            "colors": [
+                                "#B31316",
+                                "#B31316"
+                            ]
+                        },
+                        {
+                            "id": 37063,
+                            "name": "Master",
+                            "colors": [
+                                "#9D228D",
+                                "#9D228D"
+                            ]
+                        },
+                        {
+                            "id": 37060,
+                            "name": "Platinum",
+                            "colors": [
+                                "#55CDE5",
+                                "#55CDE5"
+                            ]
+                        },
+                        {
+                            "id": 37058,
+                            "name": "Silver",
+                            "colors": [
+                                "#AAB5BA",
+                                "#AAB5BA"
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -19920,6 +20172,66 @@
                         },
                         {
                             "id": 45055,
+                            "name": "Turquoise",
+                            "colors": [
+                                "#73BFBE",
+                                "#73BFBE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 45060,
+                    "name": "Fright Night Veigar",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1820,
+                    "rarity": "Legendary",
+                    "release": "2024-09-25",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin60/images/veigar_splash_centered_60.skins_veigar_skin60.jpg",
+                    "chromas": [
+                        {
+                            "id": 45062,
+                            "name": "Amethyst",
+                            "colors": [
+                                "#9C68D7",
+                                "#9C68D7"
+                            ]
+                        },
+                        {
+                            "id": 45066,
+                            "name": "Ghoulish",
+                            "colors": [
+                                "#68B856",
+                                "#B69017"
+                            ]
+                        },
+                        {
+                            "id": 45065,
+                            "name": "Rose Quartz",
+                            "colors": [
+                                "#E58BA5",
+                                "#E58BA5"
+                            ]
+                        },
+                        {
+                            "id": 45061,
+                            "name": "Ruby",
+                            "colors": [
+                                "#D33528",
+                                "#D33528"
+                            ]
+                        },
+                        {
+                            "id": 45064,
+                            "name": "Sapphire",
+                            "colors": [
+                                "#2756CE",
+                                "#2756CE"
+                            ]
+                        },
+                        {
+                            "id": 45063,
                             "name": "Turquoise",
                             "colors": [
                                 "#73BFBE",
@@ -25161,19 +25473,19 @@
                             ]
                         },
                         {
-                            "id": 64009,
-                            "name": "Yellow",
-                            "colors": [
-                                "#F6E669",
-                                "#3B3A41"
-                            ]
-                        },
-                        {
                             "id": 64022,
                             "name": "Emerald",
                             "colors": [
                                 "#2DA130",
                                 "#2DA130"
+                            ]
+                        },
+                        {
+                            "id": 64071,
+                            "name": "Jade",
+                            "colors": [
+                                "#73BFBE",
+                                "#73BFBE"
                             ]
                         },
                         {
@@ -25222,6 +25534,14 @@
                             "colors": [
                                 "#AA48C8",
                                 "#451D22"
+                            ]
+                        },
+                        {
+                            "id": 64009,
+                            "name": "Yellow",
+                            "colors": [
+                                "#F6E669",
+                                "#3B3A41"
                             ]
                         }
                     ]
@@ -39640,7 +39960,7 @@
                 {
                     "id": 111036,
                     "name": "Crystalis Indomitus Nautilus",
-                    "availability": "Upcoming",
+                    "availability": "Rare",
                     "lootEligible": true,
                     "cost": "Special",
                     "rarity": "Mythic",
@@ -52066,6 +52386,109 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "id": 221028,
+                    "name": "Fright Night Zeri",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-09-25",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin28/images/zeri_splash_centered_28.skins_zeri_skin28.jpg",
+                    "chromas": [
+                        {
+                            "id": 221036,
+                            "name": "Amethyst",
+                            "colors": [
+                                "#9C68D7",
+                                "#9C68D7"
+                            ]
+                        },
+                        {
+                            "id": 221034,
+                            "name": "Aquamarine",
+                            "colors": [
+                                "#6ABBEE",
+                                "#6ABBEE"
+                            ]
+                        },
+                        {
+                            "id": 221031,
+                            "name": "Catseye",
+                            "colors": [
+                                "#FFEE59",
+                                "#FFEE59"
+                            ]
+                        },
+                        {
+                            "id": 221032,
+                            "name": "Emerald",
+                            "colors": [
+                                "#2DA130",
+                                "#2DA130"
+                            ]
+                        },
+                        {
+                            "id": 221039,
+                            "name": "Ghoulish",
+                            "colors": [
+                                "#68B856",
+                                "#B69017"
+                            ]
+                        },
+                        {
+                            "id": 221035,
+                            "name": "Meteorite",
+                            "colors": [
+                                "#5F432B",
+                                "#5F432B"
+                            ]
+                        },
+                        {
+                            "id": 221038,
+                            "name": "Nightshade",
+                            "colors": [
+                                "#3F95B1",
+                                "#8655B3"
+                            ]
+                        },
+                        {
+                            "id": 221037,
+                            "name": "Obsidian",
+                            "colors": [
+                                "#27211C",
+                                "#27211C"
+                            ]
+                        },
+                        {
+                            "id": 221030,
+                            "name": "Ruby",
+                            "colors": [
+                                "#D33528",
+                                "#D33528"
+                            ]
+                        },
+                        {
+                            "id": 221033,
+                            "name": "Turquoise",
+                            "colors": [
+                                "#73BFBE",
+                                "#73BFBE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 221029,
+                    "name": "Prestige Fright Night Zeri",
+                    "availability": "Rare",
+                    "lootEligible": false,
+                    "cost": "Special",
+                    "rarity": "Mythic",
+                    "release": "2024-09-25",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin29/images/zeri_splash_centered_29.skins_zeri_skin29.jpg",
+                    "chromas": []
                 }
             ]
         },
@@ -53397,6 +53820,58 @@
                         {
                             "id": 234034,
                             "name": "Sapphire",
+                            "colors": [
+                                "#2756CE",
+                                "#2756CE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 234037,
+                    "name": "Worlds 2024 Viego",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-09-25",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_centered_37.skins_viego_skin37.jpg",
+                    "chromas": [
+                        {
+                            "id": 234040,
+                            "name": "Citrine",
+                            "colors": [
+                                "#DF9117",
+                                "#DF9117"
+                            ]
+                        },
+                        {
+                            "id": 234041,
+                            "name": "Obsidian",
+                            "colors": [
+                                "#27211C",
+                                "#27211C"
+                            ]
+                        },
+                        {
+                            "id": 234038,
+                            "name": "Ruby",
+                            "colors": [
+                                "#D33528",
+                                "#D33528"
+                            ]
+                        },
+                        {
+                            "id": 234042,
+                            "name": "Triumphant",
+                            "colors": [
+                                "#B2C6D7",
+                                "#B9916B"
+                            ]
+                        },
+                        {
+                            "id": 234039,
+                            "name": "Unlocked",
                             "colors": [
                                 "#2756CE",
                                 "#2756CE"
@@ -57640,7 +58115,7 @@
                 {
                     "id": 268019,
                     "name": "Attorney Azir",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
@@ -59017,7 +59492,7 @@
                 {
                     "id": 412059,
                     "name": "Janitor Thresh",
-                    "availability": "Upcoming",
+                    "availability": "Available",
                     "lootEligible": true,
                     "cost": 1350,
                     "rarity": "Epic",
@@ -63460,13 +63935,97 @@
                 {
                     "id": 555054,
                     "name": "Prestige Soul Fighter Pyke",
-                    "availability": "Available",
+                    "availability": "Rare",
                     "lootEligible": true,
                     "cost": "Special",
                     "rarity": "Mythic",
                     "release": "2023-07-20",
                     "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin54/images/pyke_splash_centered_54.jpg",
                     "chromas": []
+                },
+                {
+                    "id": 555064,
+                    "name": "Fright Night Pyke",
+                    "availability": "Available",
+                    "lootEligible": true,
+                    "cost": 1350,
+                    "rarity": "Epic",
+                    "release": "2024-09-25",
+                    "splash": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin64/images/pyke_splash_centered_64.skins_pyke_skin64.jpg",
+                    "chromas": [
+                        {
+                            "id": 555070,
+                            "name": "Amethyst",
+                            "colors": [
+                                "#9C68D7",
+                                "#9C68D7"
+                            ]
+                        },
+                        {
+                            "id": 555066,
+                            "name": "Catseye",
+                            "colors": [
+                                "#FFEE59",
+                                "#FFEE59"
+                            ]
+                        },
+                        {
+                            "id": 555067,
+                            "name": "Emerald",
+                            "colors": [
+                                "#2DA130",
+                                "#2DA130"
+                            ]
+                        },
+                        {
+                            "id": 555073,
+                            "name": "Ghoulish",
+                            "colors": [
+                                "#68B856",
+                                "#B69017"
+                            ]
+                        },
+                        {
+                            "id": 555071,
+                            "name": "Pearl",
+                            "colors": [
+                                "#ECF9F8",
+                                "#ECF9F8"
+                            ]
+                        },
+                        {
+                            "id": 555065,
+                            "name": "Ruby",
+                            "colors": [
+                                "#D33528",
+                                "#D33528"
+                            ]
+                        },
+                        {
+                            "id": 555069,
+                            "name": "Sapphire",
+                            "colors": [
+                                "#2756CE",
+                                "#2756CE"
+                            ]
+                        },
+                        {
+                            "id": 555072,
+                            "name": "Tanzanite",
+                            "colors": [
+                                "#54209B",
+                                "#54209B"
+                            ]
+                        },
+                        {
+                            "id": 555068,
+                            "name": "Turquoise",
+                            "colors": [
+                                "#73BFBE",
+                                "#73BFBE"
+                            ]
+                        }
+                    ]
                 }
             ]
         },
